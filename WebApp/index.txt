@@ -22,7 +22,6 @@ Register
 
 Creative Landing Page
 
-A creative & modern landing page with Landio template & We love make things amazing.
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur that is fugit.
 
@@ -91,7 +90,6 @@ Read More
 Buy Now
 
 
-We do the work you stay focused on your customers.
 
 <ion-icon name="rocket-outline"></ion-icon>
 Donec pede justo fringilla vel nec.
@@ -159,7 +157,7 @@ Send Message
 : 9:00 AM - 6:00 PM
 
 <ion-icon name="location-outline"></ion-icon>
-: 1644 Deer Ridge Drive Rochelle Park, NJ 07662
+: 28 Randolph Street Maitama, Abuja
 
 
 
@@ -193,5 +191,3 @@ Support
 Customer Service
 Get Started
 Guide
-
-&copy; 2022 codewithsadee. All Right Reserved
